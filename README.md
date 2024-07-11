@@ -1,4 +1,4 @@
 # ebca-pull-request
 Repositório de teste para demonstrar um pull request
 
-Atualização no main com conflito.
+Atualização no main com resolução.
